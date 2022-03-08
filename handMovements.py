@@ -18,7 +18,7 @@ mp_hand = mp.solutions.hands
 tipIds=[4,8,12,16,20]
  
 video = cv2.VideoCapture(0)
-
+video.set(cv2.CAP_PROP_FPS, 1)
 with mp_hand.Hands(max_num_hands = 1,
                 min_detection_confidence = 0.5,
                min_tracking_confidence = 0.5) as hands:
