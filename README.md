@@ -1,12 +1,10 @@
 # GestureControlledVideoController
-Using This script we can do this following operation by using the hand gesture in any media player which support the arrow key to control
-
+Using This [script](handMovements.py) we can do this following operation by using the hand gesture in any media player which support the arrow key to control
 
                                         Pause
                                         resume 
                                         Volume Up 
                                         Volume Down 
-
 
 
 # Controlling Features
