@@ -1,5 +1,10 @@
 # GestureControlledVideoController
-Pause, resume, Volume Up, Volume Down Using This script
+                    Pause, 
+                    resume, 
+                    Volume Up, 
+                    Volume Down 
+
+Using This script
 
 # Controlling Features
 UP Arror Key Control : 
